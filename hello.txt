@@ -1,5 +1,5 @@
-hello git!gggggggggggggg
-hello git!gzzzzzzzzzzzzzzzz
+hello git!gg
+hello git!gz
 hello git!
 hello git!
 hello git!
