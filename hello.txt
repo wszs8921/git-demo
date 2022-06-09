@@ -1,5 +1,5 @@
 hello git!gg
-hello git!gz
+hello git!gz hot-fix test
 hello git!
 hello git!
 hello git!
